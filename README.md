@@ -4,7 +4,11 @@
 
 ![DiffusionLimitedAggregationStatic](https://github.com/johnnyawesome/DiffusionLimitedAggregation/blob/main/DiffusionLimitedAggregation/DemoImages/DiffusionLimitedAggregation.gif?raw=true)
 
-Here's the same code without displaying the [random walkers](https://en.wikipedia.org/wiki/Random_walk):
+I also made a [3D-Version](https://github.com/johnnyawesome/DiffusionLimitedAggregation/blob/main/DiffusionLimitedAggregation3D/DemoImages/DiffusionLimitedAggregation3D.gif?raw=true) of the algo:
+
+![DiffusionLimitedAggregationAnimated3D](https://github.com/johnnyawesome/DiffusionLimitedAggregation/blob/main/DiffusionLimitedAggregation3D/DemoImages/DiffusionLimitedAggregation3D.gif?raw=true)
+
+Here's the 2D-Code code without displaying the [random walkers](https://en.wikipedia.org/wiki/Random_walk):
 
 ![DiffusionLimitedAggregationAnimated](https://github.com/johnnyawesome/DiffusionLimitedAggregation/blob/main/DiffusionLimitedAggregation/DemoImages/DiffusionLimitedAggregationJustGrowth.gif?raw=true)
 
