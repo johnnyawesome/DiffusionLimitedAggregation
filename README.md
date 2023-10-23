@@ -12,6 +12,10 @@ Here's the 2D-Code code without displaying the [random walkers](https://en.wikip
 
 ![DiffusionLimitedAggregationAnimated](https://github.com/johnnyawesome/DiffusionLimitedAggregation/blob/main/DiffusionLimitedAggregation/DemoImages/DiffusionLimitedAggregationJustGrowth.gif?raw=true)
 
+Here's the 3D-Code code without displaying the [random walkers](https://en.wikipedia.org/wiki/Random_walk) - it looks nice, too:
+
+![DiffusionLimitedAggregationAnimated3DJustGrowth](https://github.com/johnnyawesome/DiffusionLimitedAggregation/blob/main/DiffusionLimitedAggregation3D/DemoImages/DiffusionLimitedAggregation3DJustGrowth.gif?raw=true)
+
 Hers's a static image of one of the final structures you can achieve using my code:
 
 ![DiffusionLimitedAggregationAnimated](https://raw.githubusercontent.com/johnnyawesome/DiffusionLimitedAggregation/main/DiffusionLimitedAggregation/DemoImages/DiffusionLimitedAggregation.jpg)
