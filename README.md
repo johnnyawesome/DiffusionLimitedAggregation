@@ -11,7 +11,7 @@ Hers's a static image of one of the final structures you can achieve using my co
 
 ## The Diffusion-Limited Aggregation Algorithm
 
-The Algorithm to build this ![fractal-pattern](https://en.wikipedia.org/wiki/Fractal) is super simple! 🤩
+The Algorithm to build this [fractal-pattern](https://en.wikipedia.org/wiki/Fractal) is super simple! 🤩
 
 In a Nutshell:
 
@@ -24,7 +24,7 @@ In a Nutshell:
 
  So this entire image, with all it's branches and forks, *is created out of randomness*! That's super cool! 😎
 
- Sorry for the super bad framerate, but you can kind of see in the image below how the walkers walk randomly and then get stuck on the frozen center and slowly start building the ![fractal](https://en.wikipedia.org/wiki/Fractal):
+ Sorry for the super bad framerate, but you can kind of see in the image below how the walkers walk randomly and then get stuck on the frozen center and slowly start building the [fractal](https://en.wikipedia.org/wiki/Fractal):
 
 ![DiffusionLimitedAggregationStatic](https://github.com/johnnyawesome/DiffusionLimitedAggregation/blob/main/DiffusionLimitedAggregation/DemoImages/DiffusionLimitedAggregation.gif?raw=true)
 
