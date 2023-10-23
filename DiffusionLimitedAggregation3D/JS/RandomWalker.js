@@ -11,7 +11,7 @@ class RandomWalker {
 
   display() {
 
-    //if (!this.frozen) return;
+    if (!this.frozen) return;
 
     push();
     translate(this.position);
