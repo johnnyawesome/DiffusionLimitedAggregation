@@ -1,4 +1,4 @@
-# Diffusion-Limited Aggregation 🤩
+# Diffusion-Limited Aggregation 
 
 [Diffusion-Limited Aggregation](https://en.wikipedia.org/wiki/Diffusion-limited_aggregation) written in P5JS
 
@@ -11,7 +11,7 @@ Hers's a static image of one of the final structures you can achieve using my co
 
 ## The Diffusion-Limited Aggregation Algorithm
 
-The Algorithm to build this [fractal-pattern](https://en.wikipedia.org/wiki/Fractal) is super simple! 🤩
+The algorithm to build this [fractal-pattern](https://en.wikipedia.org/wiki/Fractal) is super simple! 🤩
 
 In a Nutshell:
 
@@ -19,7 +19,7 @@ In a Nutshell:
 - We call this fixed point "frozen"
 - Generate a bunch of [random walkers](https://en.wikipedia.org/wiki/Random_walk) that randomly walk around the screen
   (Notice: The walkers in my code aren't entirely random, I used [perlin noise](https://en.wikipedia.org/wiki/Perlin_noise) to make the motion look more natural)
-- If a random walker hits the frozen point in the middle of the screen, the walker itself gets frozen, too
+- If a random walker hits a frozen point, the walker itself gets frozen, too
 - And that's all!
 
  So this entire image, with all it's branches and forks, *is created out of randomness*! That's super cool! 😎
