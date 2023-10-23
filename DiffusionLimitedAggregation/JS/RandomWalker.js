@@ -10,6 +10,7 @@ class RandomWalker {
 
   //Display the walker
   display() {
+    if (!this.frozen) return;
     ellipse(this.position.x, this.position.y, walkerSize);
   }
 
