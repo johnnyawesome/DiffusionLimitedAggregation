@@ -4,6 +4,10 @@
 
 ![DiffusionLimitedAggregationStatic](https://github.com/johnnyawesome/DiffusionLimitedAggregation/blob/main/DiffusionLimitedAggregation/DemoImages/DiffusionLimitedAggregation.gif?raw=true)
 
+Here's the same code without displaying the [random walkers](https://en.wikipedia.org/wiki/Random_walk):
+
+![DiffusionLimitedAggregationAnimated](https://github.com/johnnyawesome/DiffusionLimitedAggregation/blob/main/DiffusionLimitedAggregation/DemoImages/DiffusionLimitedAggregationJustGrowth.gif?raw=true)
+
 Hers's a static image of one of the final structures you can achieve using my code:
 
 ![DiffusionLimitedAggregationAnimated](https://raw.githubusercontent.com/johnnyawesome/DiffusionLimitedAggregation/main/DiffusionLimitedAggregation/DemoImages/DiffusionLimitedAggregation.jpg)
