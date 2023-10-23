@@ -4,7 +4,7 @@
 
 ![DiffusionLimitedAggregationStatic](https://github.com/johnnyawesome/DiffusionLimitedAggregation/blob/main/DiffusionLimitedAggregation/DemoImages/DiffusionLimitedAggregation.gif?raw=true)
 
-I also made a [3D-Version](https://github.com/johnnyawesome/DiffusionLimitedAggregation/blob/main/DiffusionLimitedAggregation3D/DemoImages/DiffusionLimitedAggregation3D.gif?raw=true) of the algo:
+I also made a [3D-Version](https://github.com/johnnyawesome/DiffusionLimitedAggregation/tree/main/DiffusionLimitedAggregation3D) of the algo:
 
 ![DiffusionLimitedAggregationAnimated3D](https://github.com/johnnyawesome/DiffusionLimitedAggregation/blob/main/DiffusionLimitedAggregation3D/DemoImages/DiffusionLimitedAggregation3D.gif?raw=true)
 
